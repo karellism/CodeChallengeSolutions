@@ -1,5 +1,4 @@
-# CodeAbbey-Solutions
-Solutions to CodeAbbey Problems
+<pre>Solutions to problems on <a href="https://codeabbey.com/" target="_blank">CodeAbbey</a></pre>
 
 <h3>Solutions in Java:</h3>
 
