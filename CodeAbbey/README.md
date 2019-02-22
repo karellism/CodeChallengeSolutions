@@ -1,25 +1,29 @@
 <pre>Solutions to problems on <a href="https://codeabbey.com/" target="_blank">CodeAbbey</a></pre>
 
-<h2>Finished</h2>
-<h3>Solutions in Java:</h3>
+## Finished
+### Solutions in Java:
 
-<ul>
-  <li>Problem 1 - </li>
-  <li>Problem 2 - Sum of Loop</li>
-  <li>Problem 3 - Sums of Loop</li>
-  <li>Problem 4 - Minimum of Two</li>
-  <li>Problem 5 - Minimum of Three</li>
-  <li>Problem 6 - Rounding</li>
-  <li>Problem 7 - Fahrenheit to Celsius</li>
-  <li>Problem 8 - </li>
-  <li>Problem 9 - </li>
-  <li>Problem 10 - </li>
-  <li>Problem 11 - </li>
-  <li>Problem 12 - </li>
-  <li>Problem 13 - </li>
-  <li>Problem 14 - </li>
- <li>Problem 15 - </li>
-</ul>
 
-<h2>TO-DO</h2>
-<h3>Solutions in C & C++</h3>
+* Problem 1 - Sum A+B
+* Problem 2 - Sum in Loop
+* Problem 3 - Sums in Loop
+* Problem 4 - Minimum of Two
+* Problem 5 - Minimum of Three
+* Problem 6 - Rounding
+* Problem 7 - Fahrenheit to Celsius
+* Problem 8 - Arithmetic Progression
+* Problem 9 - Triangles
+* Problem 10 - Linear Function
+* Problem 11 - Sum of digits
+* Problem 12 - Modulo and time difference
+* Problem 13 - Weighted sum of digits
+* Problem 14 - Modular Calculator
+* Problem 15 - Maximum of array
+* Problem 16 - Average of an array
+* Problem 17 - Array Checksum 
+* Problem 18 - Square Root
+* Problem 19 - Matching Brackets
+* Problem 20 - Vowel Count
+
+## TO-DO
+### Solutions in C & C++
