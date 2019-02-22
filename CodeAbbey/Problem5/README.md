@@ -16,4 +16,4 @@ answer:
 ```
 
 ```
-*Text from [CodeAbbey.com](https://www.codeabbey.com/)*## Problem #number at [CodeAbbey](https://codeabbey.com/)
+*Text from [CodeAbbey.com](https://www.codeabbey.com/)*
