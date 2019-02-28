@@ -26,7 +26,9 @@ Therefore I give the following advice to everyone visiting here:
 ## Last words
 
 Have fun with Coding everyone!
+
 Visit my [blog](https://karellismdev.wordpress.com/) for development, programming and more articles.
 
-Greetings, Karel 'Karellism' Vanhelden. 
+Greetings, Karel 'Karellism' Vanhelden.
+
 Timestamp: 09:22 on 28.02.2019, GMT+1, Brussels
