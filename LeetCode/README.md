@@ -12,6 +12,7 @@
 
 ### Solutions in C++:
 
+* Problem 2 - Add Two Numbers
 * Problem 190 - Reverse Bits
 
 
