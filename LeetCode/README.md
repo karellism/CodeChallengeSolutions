@@ -4,6 +4,7 @@
 ### Solutions in Java:
 
 * Problem 1 - Two Sum
+* Problem 7 - Reverse Integer
 
 ### Solutions in C:
 
