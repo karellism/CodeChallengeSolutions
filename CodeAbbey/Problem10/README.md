@@ -1,20 +1,20 @@
 ## Problem #10 at [CodeAbbey](https://codeabbey.com/)
-## 
-Tags: 
+## Problem name
+Tags: tag1, tag2
 
-/// INFO GOES HERE ///
+Problem Description here...
+
+Input data will contain ...
+The following lines will ...
+Answer should contain ....
 
 Example:
 ```
-input data:
-
-answer:
-
+exampleblock
 ```
 
-**Test data:**
+Test Data (Use for input):
 ```
-
+testdata
 ```
 *Text from [CodeAbbey.com](https://www.codeabbey.com/)*
-
