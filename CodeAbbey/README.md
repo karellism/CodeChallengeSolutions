@@ -3,8 +3,7 @@
 ## Finished
 ### Solutions in Java:
 
-
-* [[Problem 1 - Sum A+B]]
+* [Problem 1 - Sum A+B](Problem1/README.md)
 * [[Problem 2 - Sum in Loop]]
 * [[Problem 3 - Sums in Loop]]
 * [[Problem 4 - Minimum of Two]]
@@ -27,3 +26,20 @@
 
 ## TO-DO
 ### Solutions in C & C++
+
+| ID | Name                                            | Solved | Java | C++ | Other Solutions          |
+|----|-------------------------------------------------|--------|------|-----|--------------------------|
+| 1  |                                                 |        |      |     |                          |
+| 2  |                                                 |        |      |     |                          |
+| 3  |                                                 |        |      |     |                          |
+| 4  |                                                 |        |      |     |                          |
+| 5  |                                                 |        |      |     |                          |
+| 6  |                                                 |        |      |     |                          |
+| 7  |                                                 |        |      |     |                          |
+| 8  |                                                 |        |      |     |                          |
+| 9  |                                                 |        |      |     |                          |
+| 10 |                                                 |        |      |     |                          |
+| 11 |                                                 |        |      |     |                          |
+| 12 |                                                 |        |      |     |                          |
+| 13 |                                                 |        |      |     |                          |
+| 14 |                                                 |        |      |     |                          |
