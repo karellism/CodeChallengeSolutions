@@ -1,4 +1,5 @@
-<pre>Solutions to problems on <a href="https://codeabbey.com/" target="_blank">CodeAbbey</a></pre>
+Solutions to problems for <a href="https://codeabbey.com/" target="_blank">CodeAbbey</a>.
+By Karel "Karellism" Vanhelden
 
 ## Overview
 
