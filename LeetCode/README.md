@@ -13,6 +13,8 @@
 ### Solutions in C++:
 
 * Problem 2 - Add Two Numbers
+* Problem 33 - Search in Rotated Sorted Array
+* Problem 69 - Guess ...
 * Problem 190 - Reverse Bits
 * Problem 704 - Binary Search
 
