@@ -1,5 +1,3 @@
-///
-
 ## Solution To Problem ... on LeetCode
 ## --problemname--
 
