@@ -14,7 +14,7 @@
 
 * Problem 2 - Add Two Numbers
 * Problem 190 - Reverse Bits
-
+* Problem 704 - Binary Search
 
 ## TO-DO
 ### Solutions
