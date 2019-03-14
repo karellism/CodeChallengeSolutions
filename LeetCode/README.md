@@ -15,6 +15,7 @@
 * Problem 2 - Add Two Numbers
 * Problem 33 - Search in Rotated Sorted Array
 * Problem 69 - Guess ...
+* Problem 162 - Find Peak Element
 * Problem 190 - Reverse Bits
 * Problem 278 - First Bad Version
 * Problem 374 - ...
