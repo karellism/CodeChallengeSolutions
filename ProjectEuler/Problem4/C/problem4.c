@@ -1,4 +1,4 @@
-// My solution to Euler-project problem 5 in C
+// My solution to Euler-project problem 4 in C
 // By Karel Vanhelden - Karellism.com
 #include <stdio.h>
  
