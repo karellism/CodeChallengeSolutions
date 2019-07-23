@@ -1,5 +1,5 @@
 ## Project Euler
-[https://projecteuler.net](Projecteuler.net)
+[https://projecteuler.net]
 
 ### Solutions
 
