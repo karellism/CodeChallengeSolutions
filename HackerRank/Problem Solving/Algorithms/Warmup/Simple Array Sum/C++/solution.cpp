@@ -1,3 +1,6 @@
+// Solution in C++ for Simple Array Sum problem at HackerRank
+// By Karel Vanhelden - www.karellism.com
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
