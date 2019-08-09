@@ -9,12 +9,12 @@ By Karel "Karellism" Vanhelden - https://www.karellism.com/
 ---
 
 * Language Proficiency
- * C
- * C++
- * Java
- * Python
- * Ruby
- * Linux Shell
+  * C
+  * C++
+  * Java
+  * Python
+  * Ruby
+  * Linux Shell
  
 * Problem Solving
   * Algorithms
