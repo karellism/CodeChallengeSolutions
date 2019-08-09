@@ -24,10 +24,10 @@ By Karel "Karellism" Vanhelden - https://www.karellism.com/
 * Specialized Skills
 
 * Tutorials
- * 30 Days Of Code
- * 10 Days Of JavaScript 
- * 10 Days Of Statistics
- * ...
+  * 30 Days Of Code
+  * 10 Days Of JavaScript 
+  * 10 Days Of Statistics
+  * ...
 ---
 
 
