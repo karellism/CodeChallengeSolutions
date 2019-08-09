@@ -8,21 +8,13 @@ By Karel "Karellism" Vanhelden - https://www.karellism.com/
 
 ---
 
-
-
-
-* Problem Solving
-  
-  
-  
-  
-
-* 
-
-* 
-
 * Language Proficiency
 
+* Problem Solving
+  * Algorithms
+  * Data Structures
+  * Mathematics
+  
 * Specialized Skills
 
 * Tutorials
