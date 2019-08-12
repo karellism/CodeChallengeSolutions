@@ -1,4 +1,4 @@
-## Problem Solving
+## **Problem Solving**
 
 - Algorithms
 - Data Structures
