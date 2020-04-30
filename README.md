@@ -10,6 +10,10 @@ An end that will probably never come, since these sites keep throwing new proble
 This repository is mainly a personal tracking system in this state, I can see what problems I have solved on which site and in which language amd as an added bonus I'm working with GitHub while doing that. 
 But if anybody has any ideas or wants to contribute in some way, feel free to contact me. 
 
+## Moving to separate repositories
+
+As of 30.04.2020 solutions to problems for HackerRank, Project Euler, CodeAbbey have moved to their own separate repositories.
+
 ## Important
 
 I am providing confirmed solutions in this repository. Some of the sites which I provide solutions for will not like this.
@@ -29,7 +33,8 @@ Therefore I give the following advice to everyone visiting here:
 Have fun with Coding everyone!
 
 Visit my [blog](https://karelllismdev.wordpress.com/) for development, programming and more articles.
+And the [Karellism](https://karellism.com/) website!
 
 Greetings, Karel 'Karellism' Vanhelden.
 
-Timestamp: 09:22 on 28.02.2019, GMT+1, Brussels
+Timestamp: 14:53 on 30.04.2020, GMT+1, Brussels
